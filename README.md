@@ -1,4 +1,4 @@
-TP 1: Singly Linked Lists
+**TP 1: Singly Linked Lists**
 Problem Statement: Product Stock Management
 In this problem, we aim to automate a product purchasing system for a store. To meet our requirements, we propose the following structures to model the given problem.
 
